@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/android/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/hugogomes/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/android/app/.cxx/cmake/debug/armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "convertImage-Debug-armeabi-v7a": {
+      "artifactName": "convertImage",
+      "buildCommand": "/Users/hugogomes/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/android/app/.cxx/cmake/debug/armeabi-v7a --target convertImage",
+      "abi": "armeabi-v7a",
+      "output": "/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/build/app/intermediates/cmake/debug/obj/armeabi-v7a/libconvertImage.so"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/android/CMakeLists.txt"
+	],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"/Users/hugogomes/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/android/app/.cxx/cmake/debug/x86_64 --target clean"
+	],
+	"libraries" : 
+	{
+		"convertImage-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "convertImage",
+			"buildCommand" : "/Users/hugogomes/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/android/app/.cxx/cmake/debug/x86_64 --target convertImage",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android21 --gcc-toolchain=/Users/hugogomes/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hugogomes/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DconvertImage_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/ios/Classes/converter.c",
+					"workingDirectory" : "/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/android/app/.cxx/cmake/debug/x86_64"
+				}
+			],
+			"output" : "/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/build/app/intermediates/cmake/debug/obj/x86_64/libconvertImage.so",
+			"toolchain" : "2204716419614624720"
+		}
+	},
+	"toolchains" : 
+	{
+		"2204716419614624720" : 
+		{
+			"cCompilerExecutable" : "/Users/hugogomes/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/hugogomes/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}
