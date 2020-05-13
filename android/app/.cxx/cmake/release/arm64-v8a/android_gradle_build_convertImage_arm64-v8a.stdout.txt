@@ -1,0 +1,2 @@
+[1/2] Building C object CMakeFiles/convertImage.dir/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/ios/Classes/converter.c.o
+[2/2] Linking C shared library /Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/build/app/intermediates/cmake/release/obj/arm64-v8a/libconvertImage.so

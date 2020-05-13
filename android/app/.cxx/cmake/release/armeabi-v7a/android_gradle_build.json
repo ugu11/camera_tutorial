@@ -1,0 +1,41 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/android/CMakeLists.txt"
+	],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"/Users/hugogomes/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/android/app/.cxx/cmake/release/armeabi-v7a --target clean"
+	],
+	"libraries" : 
+	{
+		"convertImage-Release-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "convertImage",
+			"buildCommand" : "/Users/hugogomes/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/android/app/.cxx/cmake/release/armeabi-v7a --target convertImage",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/hugogomes/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hugogomes/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DconvertImage_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -Oz -DNDEBUG  -fPIC      -c ",
+					"src" : "/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/ios/Classes/converter.c",
+					"workingDirectory" : "/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/android/app/.cxx/cmake/release/armeabi-v7a"
+				}
+			],
+			"output" : "/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/build/app/intermediates/cmake/release/obj/armeabi-v7a/libconvertImage.so",
+			"toolchain" : "2204716419614624720"
+		}
+	},
+	"toolchains" : 
+	{
+		"2204716419614624720" : 
+		{
+			"cCompilerExecutable" : "/Users/hugogomes/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/hugogomes/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

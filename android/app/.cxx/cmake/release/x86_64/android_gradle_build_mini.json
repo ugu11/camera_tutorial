@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/android/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/hugogomes/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/android/app/.cxx/cmake/release/x86_64 --target clean"
+  ],
+  "libraries": {
+    "convertImage-Release-x86_64": {
+      "artifactName": "convertImage",
+      "buildCommand": "/Users/hugogomes/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/android/app/.cxx/cmake/release/x86_64 --target convertImage",
+      "abi": "x86_64",
+      "output": "/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/build/app/intermediates/cmake/release/obj/x86_64/libconvertImage.so"
+    }
+  }
+}

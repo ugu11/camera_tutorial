@@ -1,3 +1,5 @@
 # ninja log v5
 0	47	0	CMakeFiles/convertImage.dir/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/ios/Classes/converter.c.o	6178ce11002eabc0
 48	71	0	/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/build/app/intermediates/cmake/debug/obj/x86_64/libconvertImage.so	b7601c79814cc6cc
+3	67	0	CMakeFiles/convertImage.dir/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/ios/Classes/converter.c.o	6178ce11002eabc0
+68	164	0	/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/build/app/intermediates/cmake/debug/obj/x86_64/libconvertImage.so	b7601c79814cc6cc

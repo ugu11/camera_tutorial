@@ -1,1 +1,2 @@
-ninja: no work to do.
+[1/2] Building C object CMakeFiles/convertImage.dir/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/ios/Classes/converter.c.o
+[2/2] Linking C shared library /Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/build/app/intermediates/cmake/debug/obj/x86_64/libconvertImage.so

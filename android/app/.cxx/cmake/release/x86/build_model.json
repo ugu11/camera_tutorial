@@ -1,0 +1,70 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/android",
+      "sdkFolder": "/Users/hugogomes/Library/Android/sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/build/app/intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/android/app",
+      "makeFile": "/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/android/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/android/.cxx",
+      "cxxFolder": "/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/android/app/.cxx",
+      "ndkFolder": "/Users/hugogomes/Library/Android/sdk/ndk/21.1.6352462",
+      "ndkVersion": "21.1.6352462",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "release",
+    "soFolder": "/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/build/app/intermediates/cmake/release/lib",
+    "objFolder": "/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/build/app/intermediates/cmake/release/obj",
+    "jsonFolder": "/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/android/app/.cxx/cmake/release",
+    "gradleBuildOutputFolder": "/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/android/app/.cxx/cxx/release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86",
+  "abiPlatformVersion": 21,
+  "cxxBuildFolder": "/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/android/app/.cxx/cmake/release/x86",
+  "jsonFile": "/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/android/app/.cxx/cmake/release/x86/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/android/app/.cxx/cxx/release/x86",
+  "objFolder": "/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/build/app/intermediates/cmake/release/obj/x86",
+  "buildCommandFile": "/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/android/app/.cxx/cmake/release/x86/build_command.txt",
+  "buildOutputFile": "/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/android/app/.cxx/cmake/release/x86/build_output.txt",
+  "modelOutputFile": "/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/android/app/.cxx/cmake/release/x86/build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/android/app/.cxx/cxx/release/x86/CMakeLists.txt",
+    "toolchainWrapperFile": "/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/android/app/.cxx/cxx/release/x86/android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/android/app/.cxx/cxx/release/x86/build_generation_state.json",
+    "cacheKeyFile": "/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/android/app/.cxx/cxx/release/x86/compiler_cache_key.json",
+    "compilerCacheUseFile": "/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/android/app/.cxx/cxx/release/x86/compiler_cache_use.json",
+    "compilerCacheWriteFile": "/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/android/app/.cxx/cxx/release/x86/compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/android/app/.cxx/cxx/release/x86/compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/android/app/.cxx/cmake/release/x86/json_generation_record.json",
+  "compileCommandsJsonFile": "/Users/hugogomes/Desktop/Coding/Flutter/CameraTutorial/camera_tutorial/android/app/.cxx/cmake/release/x86/compile_commands.json"
+}
